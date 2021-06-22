@@ -1,6 +1,5 @@
-# Anti Adblock ADS for Blogger
-Now I will discuss Anti Adblock. Lots of visitors who use AdBlock, and make our earnings become less friendly . My Blogger will now share my Anti Adblock on myblogger4share.blogspot.com Anti Adblock displays notifications to users who use AdBlock to turn off the AdBlock. For more details, my friend can see screenshoot below
-<br/><img src="https://i.imgur.com/BdxfKmP.png">
+## Version 1.0
+<img src="https://i.imgur.com/BdxfKmP.png">
 <br>1. How to Install Anti Adblock Log in to your blogger.
 <br>2. Edit HTML
 <br>3. Search for code `</b:skin>`
