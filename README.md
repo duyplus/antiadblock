@@ -11,5 +11,5 @@ Now I will discuss Anti Adblock. Lots of visitors who use AdBlock, and make our 
 <br>5. Then find the code `/body`
 <br>6. Keep this code just above the code `/body`
 
-`<script src="https://raw.githubusercontent.com/duyplus/antiadblock/main/1.0/script.min.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/duyplus/antiadblock@main/1.0/script.min.js"></script>`
 <br>7. Save and See result. If my friend has installed Anti Adblock it's good to remove the old one first. Because later can be double :D Hopefully more plus plus earnings.
