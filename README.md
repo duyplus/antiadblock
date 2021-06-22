@@ -7,4 +7,4 @@ Link: https://github.com/duyplus/antiadblock/tree/main/1.0
 <br/><br/>
 ## Version 2.0
 Link: https://github.com/duyplus/antiadblock/tree/main/2.0
-<br/><br/><img src="https://i.imgur.com/BdxfKmP.png">
+<br/><br/><img src="https://i.imgur.com/tJsWaC9.png">
